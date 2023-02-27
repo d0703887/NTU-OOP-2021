@@ -1,0 +1,361 @@
+[
+	{
+		"uid": "Q123456789",
+		"trading status": "Unpaid",
+		"code": "052232643",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 4760,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "2:17",
+				"departure time": "10:11",
+				"TrainNo": "0817",
+				"price": 2380,
+				"ticketsType": "一般",
+				"start": "1000",
+				"end": "1070",
+				"arrival time": "12:28",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			},
+			{
+				"date": "2021/7/3",
+				"ticketsCount": 2,
+				"Driving time": "2:02",
+				"departure time": "20:00",
+				"TrainNo": "0684",
+				"price": 2380,
+				"ticketsType": "一般",
+				"start": "1070",
+				"end": "1000",
+				"arrival time": "22:02",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			}
+		]
+	},
+	{
+		"uid": "T123456789",
+		"trading status": "Unpaid",
+		"code": "076531234",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 780,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "1:07",
+				"departure time": "16:34",
+				"TrainNo": "0841",
+				"price": 780,
+				"ticketsType": "愛心",
+				"start": "1020",
+				"end": "1047",
+				"arrival time": "17:41",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			}
+		]
+	},
+	{
+		"uid": "U123456789",
+		"trading status": "Unpaid",
+		"code": "078466203",
+		"carType": "商務",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 6540,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "1:42",
+				"departure time": "09:00",
+				"TrainNo": "0810",
+				"price": 3270,
+				"ticketsType": "一般",
+				"start": "1050",
+				"end": "1000",
+				"arrival time": "10:42",
+				"seats": [
+					"0601D",
+					"0601E"
+				]
+			},
+			{
+				"date": "2021/7/3",
+				"ticketsCount": 2,
+				"Driving time": "1:28",
+				"departure time": "21:41",
+				"TrainNo": "0693",
+				"price": 3270,
+				"ticketsType": "一般",
+				"start": "1000",
+				"end": "1050",
+				"arrival time": "23:09",
+				"seats": [
+					"0601D",
+					"0601E"
+				]
+			}
+		]
+	},
+	{
+		"uid": "Z123456789",
+		"trading status": "Unpaid",
+		"code": "046444609",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/28  23:59",
+		"payment": 4590,
+		"ticketInfo": [
+			{
+				"date": "2021/6/29",
+				"ticketsCount": 2,
+				"Driving time": "1:48",
+				"departure time": "08:20",
+				"TrainNo": "0113",
+				"price": 3060,
+				"ticketsType": "學生",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "10:08",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			},
+			{
+				"date": "2021/6/30",
+				"ticketsCount": 1,
+				"Driving time": "1:48",
+				"departure time": "20:55",
+				"TrainNo": "0160",
+				"price": 1530,
+				"ticketsType": "學生",
+				"start": "1070",
+				"end": "0990",
+				"arrival time": "22:43",
+				"seats": [
+					"0101A"
+				]
+			}
+		]
+	},
+	{
+		"uid": "Z123456789",
+		"trading status": "Unpaid",
+		"code": "038592899",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/28  23:59",
+		"payment": 4590,
+		"ticketInfo": [
+			{
+				"date": "2021/6/29",
+				"ticketsCount": 2,
+				"Driving time": "2:26",
+				"departure time": "21:45",
+				"TrainNo": "0333",
+				"price": 1530,
+				"ticketsType": "學生",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "00:11",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			},
+			{
+				"date": "2021/6/30",
+				"ticketsCount": 2,
+				"Driving time": "2:13",
+				"departure time": "08:00",
+				"TrainNo": "0612",
+				"price": 3060,
+				"ticketsType": "學生",
+				"start": "1070",
+				"end": "0990",
+				"arrival time": "10:13",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			}
+		]
+	},
+	{
+		"uid": "Q123",
+		"trading status": "Unpaid",
+		"code": "096832936",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/29  23:59",
+		"payment": 1220,
+		"ticketInfo": [
+			{
+				"date": "2021/7/1",
+				"ticketsCount": 1,
+				"Driving time": "2:28",
+				"departure time": "11:00",
+				"TrainNo": "0821",
+				"price": 1220,
+				"ticketsType": "一般",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "13:28",
+				"seats": [
+					"0101A"
+				]
+			}
+		]
+	},
+	{
+		"uid": "B123",
+		"trading status": "Unpaid",
+		"code": "040841621",
+		"carType": "商務",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 4500,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "2:13",
+				"departure time": "12:35",
+				"TrainNo": "0639",
+				"price": 4500,
+				"ticketsType": "一般",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "14:48",
+				"seats": [
+					"0601D",
+					"0601E"
+				]
+			}
+		]
+	},
+	{
+		"uid": "N123",
+		"trading status": "Unpaid",
+		"code": "026542657",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 1980,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "2:28",
+				"departure time": "13:00",
+				"TrainNo": "0829",
+				"price": 1980,
+				"ticketsType": "一般",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "15:28",
+				"seats": [
+					"0101A",
+					"0101B"
+				]
+			}
+		]
+	},
+	{
+		"uid": "H123",
+		"trading status": "Unpaid",
+		"code": "032710452",
+		"carType": "商務",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 2250,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "1:06",
+				"departure time": "12:11",
+				"TrainNo": "0825",
+				"price": 2250,
+				"ticketsType": "一般",
+				"start": "1000",
+				"end": "1040",
+				"arrival time": "13:17",
+				"seats": [
+					"0601D",
+					"0601E"
+				]
+			}
+		]
+	},
+	{
+		"uid": "F123456789",
+		"trading status": "Unpaid",
+		"code": "059384563",
+		"carType": "標準",
+		"Phone": "0",
+		"payDeadline": "2021/6/30  23:59",
+		"payment": 1980,
+		"ticketInfo": [
+			{
+				"date": "2021/7/2",
+				"ticketsCount": 2,
+				"Driving time": "2:28",
+				"departure time": "13:00",
+				"TrainNo": "0829",
+				"price": 1980,
+				"ticketsType": "一般",
+				"start": "0990",
+				"end": "1070",
+				"arrival time": "15:28",
+				"seats": [
+					"0101C",
+					"0102A"
+				]
+			}
+		]
+	},
+	{
+		"uid": "J123456789",
+		"trading status": "Unpaid",
+		"code": "097678086",
+		"carType": "商務",
+		"Phone": "0",
+		"payDeadline": "2021/7/1  23:59",
+		"payment": 2250,
+		"ticketInfo": [
+			{
+				"date": "2021/7/3",
+				"ticketsCount": 2,
+				"Driving time": "1:02",
+				"departure time": "08:00",
+				"TrainNo": "0606",
+				"price": 2250,
+				"ticketsType": "一般",
+				"start": "1040",
+				"end": "1000",
+				"arrival time": "09:02",
+				"seats": [
+					"0601D",
+					"0601E"
+				]
+			}
+		]
+	}
+]
