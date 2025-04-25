@@ -3,8 +3,8 @@ NTU-Object Oriented Programming Language
 
 ## Abstract
 This is the final project of OOP, implementing simplified Taiwan High Speed Rail booking system using java. It simulates two core functionalities:
-- Search System: Filter trains based on user-specified criteria (e.g. ticket type, car type, train number, time range, seat availibility) and returns a matching timetable.
-- Booking System: Allows users to reserve seats on specific trains with detailed input options (e.g. departure/arrival station, car type, ticket type).
+- **Search System**: Filter trains based on user-specified criteria (e.g. ticket type, car type, train number, time range, seat availibility) and returns a matching timetable.
+- **Booking System**: Allows users to reserve seats on specific trains with detailed input options (e.g. departure/arrival station, car type, ticket type).
 
 Train schedules and seat availibility are mangaed using a JSON-based file database, making the system lightweight and easy to modify.
 
